@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://javascript30.com/" target="_blank"><img src="https://i.ibb.co/rFKWLZv/js30.png" alt="Main-Cover" border="0"></a>
+   <a href="https://javascript30.com/" target="_blank"><img src="https://github.com/user-attachments/assets/e9690a24-0696-4a37-a998-44c02d0f3c8a" alt="Main-Cover" border="0"></a>
   <br />
 
 # JavaScript 30
